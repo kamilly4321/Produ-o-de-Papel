@@ -1,0 +1,60 @@
+body { background-color: rgb(201, 153, 219);
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 6cap ;
+    text-align: center;
+}
+
+h2{
+    color: darkmagenta;
+    font-size: 3cap;
+    text-align: center;
+}
+
+p{
+    color: darkmagenta;
+    font-size: 2cap;
+    text-align: center;
+}
+
+img{
+    width: 1000px;
+    height: 500px;
+    position: relative;
+    left: 170px;
+    right: 90px;
+}
+
+.arvore{
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 400px;
+    right: 90px;
+}
+
+.producao{
+    width: 800px;
+    height: 300px;
+    position: relative;
+    left: 270px;
+    right: 90px;
+}
+
+button {
+    background-color: rgb(92, 26, 86);
+    width: 200px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 3px solid rgb(107, 9, 50);
+    color: white;
+    cursor: pointer;
+    margin: 2cm;
+  }
+
+  .text-center {
+    text-align: center;
+  }
